@@ -1,5 +1,23 @@
 Navigation
+    Strg+N
+	Strg+Shift+N
+	Strg+Alt+Shift+N
+	Shift 2x
 	Alt+(Strg+)+Pfeil
 	Alt+Pos1
 	Strg+E
+	Shift+Strg+E
 	Alt+Tab
+	Strg+B
+	Strg+Alt+B
+	Strg+U
+	Strg+Shift+I
+	Strg+Q
+	Strg+P
+	Strg+F12
+	Alt+Pfeil hoch/runter
+	Strg+Shift+M
+
+Suche / Ersetzen
+    Strg+F
+    Strg+R

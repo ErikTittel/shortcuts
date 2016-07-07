@@ -2,3 +2,6 @@ Code Review
 	F4
 	F7
 	Git-View
+	Strg+T
+	Strg+K
+	Strg+Shift+K

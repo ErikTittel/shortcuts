@@ -1,1 +1,27 @@
 Markieren / Text bearbeiten
+    Alt+Einfg
+    Scratch files
+        Strg+Alt+Shift+Einf
+    Strg+W
+    Strg+Shift+Enter - complete statement
+    Alt+Enter - Quick fix
+    Strg+Leertaste
+    Strg+Shift+Leertaste
+    Strg+D
+    Strg+Y
+    Strg+C/X
+    Strg+Shift+V
+    Shift+Alt+Pfeil hoch/runter
+
+    Block selection
+        Alt+Click and Drag
+        Strg 2x
+
+    Strg+Alt+L
+    Strg+Alt+Shift+L
+    Strg+Alt+O
+
+    Strg+Alt+Shift+T
+    Strg+Alt+T
+
+    F2

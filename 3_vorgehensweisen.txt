@@ -1,6 +1,13 @@
 Vorgehensweisen
 	Tool-Windows schließen
+	    Strg+1..9
+	    Strg+Shift+F12
+	    Alt 2x
+	    Strg+Shift+Pfeil links/rechts
 	keine Maus
+	    Strg+Shift+Pfeil
+	    F12
+	    Esc / Shift+Esc
 	keine Eclipse shortcut bindings
 	editor tabs nicht schließen
 	project structure nicht verwenden
