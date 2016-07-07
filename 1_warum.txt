@@ -1,4 +1,4 @@
-Presentation
+Präsentation
 ======================================
 
 Warum?
@@ -9,18 +9,61 @@ Arbeiten auf höherer Abstraktionsebene
 	
 Jeder sollte mind. 3 Dinge mitnehmen, die neu sind
 
-Navigation
-	Alt+(Strg+)+Pfeil
-	Alt+Pos1
-	Strg+E
-	Alt+Tab
-
-Code Review
-	F4
-	F7
-	Git-View
-
-Run Configurations
 
 
-Markieren / Text bearbeiten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

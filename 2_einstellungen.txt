@@ -3,4 +3,5 @@ Einstellungen
 	Suche in Dialogen
 	Change font size
 	Strg+Shift+A
+	    Whitespaces
     Strg+Alt+Shift+S

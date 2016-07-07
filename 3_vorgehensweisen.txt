@@ -1,5 +1,5 @@
 Vorgehensweisen
-	tool windows schließen
+	Tool-Windows schließen
 	keine Maus
 	keine Eclipse shortcut bindings
 	editor tabs nicht schließen

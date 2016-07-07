@@ -1,0 +1,5 @@
+Navigation
+	Alt+(Strg+)+Pfeil
+	Alt+Pos1
+	Strg+E
+	Alt+Tab
