@@ -1,6 +1,5 @@
-=================
 All Shortcuts
-=================
+======================================
 
 Strg+N
 	Java-Klasse suchen
@@ -131,9 +130,8 @@ Strg+Shift+F8
 Strg+Shift+M
 	go to matching bracket
 
-====================
 Hints
-====================
+======================================
 
 Don't have all those tabs open
 Don't use the mouse
@@ -141,7 +139,6 @@ Don't use Eclipse keyboard shortcut bindings
 Don't use multi-cursor for manual refactorings
 Don't use Live Templates for generating code that could be separated into a single place (aspects)
 
-====================
 Further Information
-====================
+======================================
 https://www.voxxed.com/blog/presentation/presentation-42-intellij-idea-tips-tricks-45-minutes/
