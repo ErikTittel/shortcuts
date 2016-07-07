@@ -2,8 +2,6 @@
 All Shortcuts
 =================
 
-https://www.voxxed.com/blog/presentation/presentation-42-intellij-idea-tips-tricks-45-minutes/
-
 Strg+N
 	Java-Klasse suchen
 	nochmal Strg+N: auch excluded files durchsuchen
@@ -47,7 +45,7 @@ Strg+Shift+I
 Strg+P
 	Parameter info
 Strg+Alt+Pfeil links/rechts
-	zurück/vor
+	zurÃ¼ck/vor
 Strg+Shift+F7
 	Show usages of a variable
 	on a variable, return, throw
@@ -101,7 +99,7 @@ Strg+Alt+Shift+T
 	refactor this
 	--> you don't need to refactor everything
 Strg+Alt+T
-	sourround with…
+	sourround withâ€¦
 Refactorings
 	after the refactoring press Tab and Shift+Tab to switch between placeholders
 Postfix completion
@@ -142,3 +140,8 @@ Don't use the mouse
 Don't use Eclipse keyboard shortcut bindings
 Don't use multi-cursor for manual refactorings
 Don't use Live Templates for generating code that could be separated into a single place (aspects)
+
+====================
+Further Information
+====================
+https://www.voxxed.com/blog/presentation/presentation-42-intellij-idea-tips-tricks-45-minutes/

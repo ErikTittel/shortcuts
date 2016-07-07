@@ -2,9 +2,9 @@
 Presentation
 =================
 Warum?
-Mentale Kapazität begrenzt
-Arbeiten auf höherer Abstraktionsebene
-	Gleichnis Autofahren: nicht nachdenken über alle Details (Blinken, Kuppeln, Gang wechseln, …), sondern in "größeren" Aktionen denken: Abbiegen, Einparken
+Mentale KapazitÃ¤t begrenzt
+Arbeiten auf hÃ¶herer Abstraktionsebene
+	Gleichnis Autofahren: nicht nachdenken Ã¼ber alle Details (Blinken, Kuppeln, Gang wechseln, â€¦), sondern in "grÃ¶ÃŸeren" Aktionen denken: Abbiegen, Einparken
 	
 Einstellungen
 	Change font size
