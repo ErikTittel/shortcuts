@@ -1,0 +1,7 @@
+Vorgehensweisen
+	tool windows schließen
+	keine Maus
+	keine Eclipse shortcut bindings
+	editor tabs nicht schließen
+	project structure nicht verwenden
+	nicht speichern

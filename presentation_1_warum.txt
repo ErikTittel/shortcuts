@@ -1,0 +1,26 @@
+Presentation
+======================================
+
+Warum?
+Mentale Kapazität begrenzt
+Arbeiten auf höherer Abstraktionsebene
+	Gleichnis Autofahren: nicht nachdenken über alle Details (Blinken, Kuppeln, Gang wechseln, …),
+	sondern in "größeren" Aktionen denken: Abbiegen, Einparken
+	
+Jeder sollte mind. 3 Dinge mitnehmen, die neu sind
+
+Navigation
+	Alt+(Strg+)+Pfeil
+	Alt+Pos1
+	Strg+E
+	Alt+Tab
+
+Code Review
+	F4
+	F7
+	Git-View
+
+Run Configurations
+
+
+Markieren / Text bearbeiten
