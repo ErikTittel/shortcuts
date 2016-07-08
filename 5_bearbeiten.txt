@@ -3,6 +3,7 @@ Markieren / Text bearbeiten
     Scratch files
         Strg+Alt+Shift+Einf
     Strg+W
+    Shift+Enter
     Strg+Shift+Enter - complete statement
     Alt+Enter - Quick fix
     Strg+Leertaste

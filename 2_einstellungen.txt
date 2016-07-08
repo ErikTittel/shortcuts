@@ -1,7 +1,6 @@
 Einstellungen
-    Strg+Alt+S
-	Suche in Dialogen
 	Change font size
 	Strg+Shift+A
-	    Whitespaces
+    Strg+Alt+S
+	Suche in Dialogen
     Strg+Alt+Shift+S

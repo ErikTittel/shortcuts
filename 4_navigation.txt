@@ -9,14 +9,12 @@ Navigation
 	Shift+Strg+E
 	Alt+Tab
 	Strg+B
-	Strg+Alt+B
 	Strg+U
 	Strg+Shift+I
 	Strg+Q
 	Strg+P
 	Strg+F12
 	Alt+Pfeil hoch/runter
-	Strg+Shift+M
 
 Suche / Ersetzen
     Strg+F
