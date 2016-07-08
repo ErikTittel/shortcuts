@@ -2,13 +2,12 @@ Präsentation
 ======================================
 
 Warum?
-Mentale Kapazität begrenzt
+Nicht nur schneller tippen, sondern besser programmieren
 Arbeiten auf höherer Abstraktionsebene
-	Gleichnis Autofahren: nicht nachdenken über alle Details (Blinken, Kuppeln, Gang wechseln, …),
-	sondern in "größeren" Aktionen denken: Abbiegen, Einparken
-	
+
 Jeder sollte mind. 3 Dinge mitnehmen, die neu sind
 
 Geschichte:
-ConvertControllerTests
-FormControllerTests
+spring-mvc-showcase
+    ConvertControllerTests
+    FormControllerTests
